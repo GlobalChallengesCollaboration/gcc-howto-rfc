@@ -1,3 +1,6 @@
+First [posted as a blog](http://kfjournal.org/wp/index.php/2015/10/19/9-artifacts-to-seed-a-project-team/) 
+on October 19, 2015 at [kfjournal.org](http://kfjournal.org/wp/index.php/2015/10/19/9-artifacts-to-seed-a-project-team/)
+
 # 9 Artifacts To Seed a Project Team
 
 When a new project or team forms, I like to create or designate these minimal 9 artifacts in the shared memory (knowledge repository). This can be a wiki, or something more sophisticated, but here they are:
