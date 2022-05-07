@@ -5,13 +5,13 @@ on October 19, 2015 at [kfjournal.org](http://kfjournal.org/wp/index.php/2015/10
 
 When a new project or team forms, I like to create or designate these minimal 9 artifacts in the shared memory (knowledge repository). This can be a wiki, or something more sophisticated, but here they are:
 
-1.  Contacts List – Who are we and how can we contact each other?
-2.  Glossary – What terms do we use and what do they mean?
+1.  *Contacts List* – Who are we and how can we contact each other?
+2.  *Glossary* – What terms do we use and what do they mean?
 3.  *Project Charter* – Why does this project / team exist?
 4.  *Rules of Engagement* – How do we work with each other?
 5.  *Chronolog* – Communications, esp meetings notes
-6.  Action Item Tracking System – How do we track what needs to be done?
-7.  Calendar – What happens when
+6.  *Action Item Tracking System* – How do we track what needs to be done?
+7.  *Calendar* – What happens when
 8.  *References* – Links to other related and relevant material
 9.  *Conversation Space* – Where the conversation happens, sp. in written asynchronous form
 
@@ -21,7 +21,7 @@ Let’s take a closer look at each:
 2.  **Glossary**. The team keeps its terms explicitly visible. Where are may be alternative meanings, they are kept until the team resolves into new terminology, or resolves differences among the multiple meanings / definitions. At creation of a new collaboration, the key foundational concepts / terms can be captured to start such a glossary, and this serves to orient subsequent new members to the team.
 3.  **Project Charter**. This is a statement of WHY the project or team has been formed. It should be clear enough that prioritizing any other decision or action can be assessed as necessary or irrelevant with respect to this charter. The charter is built out of the seed terms, by the seed founding team. The charter can be revised when appropriate, as decided by the team itself. Eventually, the charter should stabilize as the team understands what its purpose, mission, and goals are.
 4.  **Rules of Engagement**. This is HOW the team will utilize its collective skills and resources to accomplish its objective, including deciding HOW. This needs to be acknowledged by each team member, and ought be created by the founding team members (one or more, up to all).
-    Elements are:
+Elements are:
     
     - Team Decisions. Decisions that have already been adopted by the team that should be the first practice of newcomers. Practices and decisions can be reviewed by the team if new information / options are available.
         - How do we make decisions?
